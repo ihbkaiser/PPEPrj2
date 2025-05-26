@@ -1,0 +1,6 @@
+ckpt/
+*.sh
+runs/
+outputs/
+*.log
+*.pt

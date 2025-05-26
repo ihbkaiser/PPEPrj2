@@ -1,0 +1,13 @@
+train: your/path/to/train/images
+val: your/path/to/valid/images
+test: your/path/to/test/images
+
+nc: 9
+names: ['boots', 'gloves', 'hardhat', 'no_boots', 'no_gloves', 'no_hardhat', 'no_vest', 'person', 'vest']
+
+roboflow:
+  workspace: ppe-yngjj
+  project: ppe-vum8g
+  version: 10
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ppe-yngjj/ppe-vum8g/dataset/10

@@ -97,7 +97,7 @@ To train the models, follow these steps:
 We provide pre-trained weights for convenience:
 - **Hyper-YOLOT**: `ckpt/hyper-yolo.pt`
 - **RT-DETRv2**: `ckpt/rtdetrv2.pth` (with config `rtdetrv2_r101vd_6x_coco.yml`)
-- Download links: [LINK]()
+- Download links: [LINK](https://drive.google.com/drive/folders/1HnifBcdfyp9u2NNB88EBXnJsTiZUBmD_?usp=sharing)
 
 Place these files in the `ckpt/` directory.
 
